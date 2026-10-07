@@ -1,0 +1,2 @@
+print("hello i am nayanam and i love to eat chocoloates though my teeth is healty and i am happy to eat no one is going to claim not to eat the chocolate")
+print("i am aarya and i  dont prefer cholcolate however i love to eat an ice cream when i am happy and moody")
